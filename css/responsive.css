@@ -1,0 +1,703 @@
+@media (min-width:320px) and (max-width:575px) {
+
+
+
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    /***********************navbar css**********************/
+    nav .navbar-brand {
+        width: 50%;
+    }
+
+    nav .navbar-brand img {
+        width: 100%;
+    }
+
+    nav button i {
+        color: #2E3360;
+        width: 45px;
+        height: 40px;
+        border-radius: 6px;
+        border: 1px solid #2E3360;
+        line-height: 40px !important;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    .navbar-collapse {
+        background: #f1f1f1;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    nav ul li a {
+        text-align: center;
+    }
+
+    /***********************banner css***********************/
+    #banner-part .text p {
+        width: auto;
+    }
+
+    #banner-part .text h1 {
+        font-size: 60px;
+    }
+
+    #banner-part .text {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .background {
+        margin-left: -70px;
+    }
+
+    /***********************about css***********************/
+    .row{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    #about-part .title{
+        width: 290px;
+    }
+    #about-part .title h1 {
+        font-size: 45px;
+    }
+
+    #about-part .title p {
+        width: auto;
+        font-size: 18px;
+    }
+
+    #about-part img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    #about-part .one {
+        font-size: 18px;
+    }
+
+    #about-part .two {
+        font-size: 18px;
+    }
+
+    #about-part .three {
+        font-size: 18px;
+    }
+
+    #about-part .four {
+        font-size: 18px;
+    }
+
+    #about-part .five {
+        font-size: 18px;
+    }
+
+    /***********************about css***********************/
+    #about-two .title{
+        margin-left: 20px;
+    }
+    #about-two a{
+        margin-left: 20px;
+    }
+    #about-two .img1 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #about-two .img2 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #about-two .img3 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #about-two .img4 img {
+        width: 45%;
+        margin-left: 8px;
+    }
+
+    #about-two .title p {
+        width: auto;
+        font-size: 18px;
+    }
+
+    /***********************suggest css***********************/
+    #suggest-part .title h1 {
+        font-size: 26px;
+        margin-left: 14px;
+    }
+
+    /***********************Solve css***********************/
+    #solve-part .part1 .moni {
+        margin-top: 20px;
+    }
+
+    #solve-part .part1 .report {
+        margin-top: 20px;
+    }
+
+    #solve-part .part1 .home {
+        margin-top: 20px;
+    }
+
+    #solve-part .part2 .tips {
+        margin-top: -10px;
+    }
+
+    #solve-part .part2 .library {
+        margin-top: 20px;
+    }
+
+    #solve-part .part2 .family {
+        margin-top: 20px;
+    }
+
+    /***********************Impact css***********************/
+    #impact-part{
+        padding-bottom: 80px;
+    }
+    #impact-part .title h1 {
+        margin-top: 80px;
+        font-size: 40px;
+    }
+
+    #impact-part .timeline {
+        margin-top: 70px;
+    }
+
+    #impact-part .timeline .one {
+        width: auto;
+    }
+
+    #impact-part .timeline .two {
+        width: auto;
+    }
+
+    #impact-part .timeline .three {
+        width: auto;
+    }
+
+    #impact-part .timeline .four {
+        width: auto;
+    }
+
+    #impact-part .timeline .one i {
+        display: none;
+    }
+
+    #impact-part .timeline .two i {
+        display: none;
+    }
+
+    #impact-part .timeline .three i {
+        display: none;
+    }
+
+    #impact-part .timeline .four i {
+        display: none;
+    }
+
+    #impact-part .img1 h3::after {
+        display: none;
+    }
+
+    #impact-part .images{
+        margin-top: 60px;
+    }
+    #impact-part .img1{
+        margin-left: 30px;
+    }
+    #impact-part .img1 h3{
+        font-size: 23px;
+        top: 13px;
+        left: 32%;
+    }
+    #impact-part .img2 h3{
+        font-size: 21px;
+        top: 13px;
+        left: 30%;
+    }
+    #impact-part .img3 h3 {
+        font-size: 20px;
+        top: 11px;
+        left: 26%;
+    }
+    #impact-part .img4 h3 {
+        font-size: 20px;
+        top: 15px;
+        left: 19%;
+    }
+
+    #impact-part .img2 h3::after {
+        display: none;
+    }
+
+    #impact-part .img3 h3::after {
+        display: none;
+    }
+
+    #impact-part .img4 h3::after {
+        display: none;
+    }
+
+    /***********************Gallery css***********************/
+    #gallery-part .title h1 {
+        margin-top: 100px;
+        font-size: 30px;
+    }
+
+    #gallery-part .img1 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #gallery-part .img2 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #gallery-part .img3 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #gallery-part .img4 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #gallery-part .img5 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+    
+    /***********************Plan css***********************/
+    #plan-part .basic ul li{
+        font-size: 14px;
+    }
+    
+    #plan-part .premium ul li{
+        font-size: 14px;
+    }
+    
+    /***********************slider css***********************/
+    
+    #slider-part .prev{
+        left: 39%;
+    }
+    #slider-part .next{
+        right: 33%;
+    }
+    #slider-part .title h1{
+        font-size: 38px;
+    }
+    #slider-part .slider img{
+        width: 120%;
+    }
+    
+    /***********************Include css***********************/
+    #include-part h1{
+        font-size: 30px;
+        width: auto;
+        padding: 10px;
+    }
+    
+    #footer-part{
+        margin: 0;
+    }
+
+    #footer-part .img{
+        width: 250px;
+        margin: 0 auto;
+    }
+    
+    /* #footer-part .img img{
+        margin-left: 85px;
+    } */
+    
+    #footer-part p{
+        margin-top: 0;
+    }
+    
+    #footer-part .email{
+        margin-top: 40px;
+    }
+    
+    #footer-part .phone{
+        margin-top: 40px;
+    }
+    
+    #footer-part .follow{
+        margin-top: 40px;
+    }
+}
+/* ==================================================320/575 end========================================= */
+@media (min-width:576px) and (max-width:767px) {
+
+
+
+    .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    /***********************navbar css**********************/
+    nav .navbar-brand {
+        width: 50%;
+    }
+
+    nav .navbar-brand img {
+        width: 100%;
+    }
+
+    nav button i {
+        color: #2E3360;
+        width: 45px;
+        height: 40px;
+        border-radius: 6px;
+        border: 1px solid #2E3360;
+        line-height: 40px !important;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    .navbar-collapse {
+        background: #f1f1f1;
+        text-align: center;
+        padding-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    nav ul li {
+        margin-left: 0;
+    }
+
+    nav ul li a {
+        text-align: center;
+    }
+
+    /***********************banner css***********************/
+    #banner-part .text p {
+        width: auto;
+    }
+
+    #banner-part .text h1 {
+        font-size: 60px;
+    }
+
+    #banner-part .text {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .background {
+        margin-left: -70px;
+    }
+
+    /***********************about css***********************/
+    .row{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    #about-part .title{
+        width: 290px;
+    }
+    #about-part .title h1 {
+        font-size: 45px;
+    }
+
+    #about-part .title p {
+        width: auto;
+        font-size: 18px;
+    }
+
+    #about-part img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    #about-part .one {
+        font-size: 18px;
+    }
+
+    #about-part .two {
+        font-size: 18px;
+    }
+
+    #about-part .three {
+        font-size: 18px;
+    }
+
+    #about-part .four {
+        font-size: 18px;
+    }
+
+    #about-part .five {
+        font-size: 18px;
+    }
+
+    /***********************about css***********************/
+    #about-two .title{
+        margin-left: 20px;
+    }
+    #about-two a{
+        margin-left: 20px;
+    }
+    #about-two .img1 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #about-two .img2 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #about-two .img3 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #about-two .img4 img {
+        width: 45%;
+        margin-left: 8px;
+    }
+
+    #about-two .title p {
+        width: auto;
+        font-size: 18px;
+    }
+
+    /***********************suggest css***********************/
+    #suggest-part .title h1 {
+        font-size: 26px;
+        margin-left: 14px;
+    }
+
+    /***********************Solve css***********************/
+    #solve-part .part1 .moni {
+        margin-top: 20px;
+    }
+
+    #solve-part .part1 .report {
+        margin-top: 20px;
+    }
+
+    #solve-part .part1 .home {
+        margin-top: 20px;
+    }
+
+    #solve-part .part2 .tips {
+        margin-top: -10px;
+    }
+
+    #solve-part .part2 .library {
+        margin-top: 20px;
+    }
+
+    #solve-part .part2 .family {
+        margin-top: 20px;
+    }
+
+    /***********************Impact css***********************/
+    #impact-part{
+        padding-bottom: 80px;
+    }
+    #impact-part .title h1 {
+        margin-top: 80px;
+        font-size: 40px;
+    }
+
+    #impact-part .timeline {
+        margin-top: 70px;
+    }
+
+    #impact-part .timeline .one {
+        width: auto;
+    }
+
+    #impact-part .timeline .two {
+        width: auto;
+    }
+
+    #impact-part .timeline .three {
+        width: auto;
+    }
+
+    #impact-part .timeline .four {
+        width: auto;
+    }
+
+    #impact-part .timeline .one i {
+        display: none;
+    }
+
+    #impact-part .timeline .two i {
+        display: none;
+    }
+
+    #impact-part .timeline .three i {
+        display: none;
+    }
+
+    #impact-part .timeline .four i {
+        display: none;
+    }
+
+    #impact-part .img1 h3::after {
+        display: none;
+    }
+
+    #impact-part .images{
+        margin-top: 60px;
+    }
+    #impact-part .img1{
+        margin-left: 30px;
+    }
+    #impact-part .img1 h3{
+        font-size: 26px;
+        top: 13px;
+        left: 32%;
+    }
+    #impact-part .img2 h3{
+        font-size: 23px;
+        top: 13px;
+        left: 30%;
+    }
+    #impact-part .img3 h3 {
+        font-size: 22px;
+        top: 11px;
+        left: 26%;
+    }
+    #impact-part .img4 h3 {
+        font-size: 20px;
+        top: 15px;
+        left: 19%;
+    }
+
+    #impact-part .img2 h3::after {
+        display: none;
+    }
+
+    #impact-part .img3 h3::after {
+        display: none;
+    }
+
+    #impact-part .img4 h3::after {
+        display: none;
+    }
+
+    /***********************Gallery css***********************/
+    #gallery-part .title h1 {
+        margin-top: 100px;
+        font-size: 30px;
+    }
+
+    #gallery-part .img1 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #gallery-part .img2 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #gallery-part .img3 img {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #gallery-part .img4 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+
+    #gallery-part .img5 img {
+        width: 95%;
+        margin-left: 8px;
+        margin-top: 25px;
+    }
+    
+    /***********************Plan css***********************/
+    #plan-part .basic ul li{
+        font-size: 14px;
+    }
+    
+    #plan-part .premium ul li{
+        font-size: 14px;
+    }
+    
+    /***********************slider css***********************/
+    
+    #slider-part .prev{
+        left: 39%;
+    }
+    #slider-part .next{
+        right: 33%;
+    }
+    #slider-part .title h1{
+        font-size: 38px;
+    }
+    #slider-part .slider img{
+        width: 120%;
+    }
+    
+    /***********************Include css***********************/
+    #include-part h1{
+        font-size: 30px;
+        width: auto;
+        padding: 10px;
+    }
+    
+    #footer-part{
+        margin: 0;
+    }
+
+    #footer-part .img{
+        width: 250px;
+        margin: 0 auto;
+    }
+    
+    /* #footer-part .img img{
+        margin-left: 85px;
+    } */
+    
+    #footer-part p{
+        margin-top: 0;
+    }
+    
+    #footer-part .email{
+        margin-top: 40px;
+    }
+    
+    #footer-part .phone{
+        margin-top: 40px;
+    }
+    
+    #footer-part .follow{
+        margin-top: 40px;
+    }
+}
